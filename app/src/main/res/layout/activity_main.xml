@@ -238,7 +238,7 @@
             android:text="6" />
 
     </RadioGroup>
-
+<!-- button to reset scores  -->
     <Button
         android:id="@+id/resetScore"
         android:layout_width="wrap_content"
